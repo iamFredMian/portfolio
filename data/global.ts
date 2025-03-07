@@ -74,16 +74,16 @@ export const footer: Footer = {
       links: [
         {
           name: "GitHub",
-          link: "https://github.com/braydentw",
+          link: "https://github.com/iamFredMian",
           icon: "/static/icons/github-f.svg",
           leavesWebsite: true,
         },
-        {
-          name: "LinkedIn",
-          link: "https://www.linkedin.com/in/braydentw/",
-          icon: "/static/icons/linkedin-f.svg",
-          leavesWebsite: true,
-        },
+        // {
+        //   name: "LinkedIn",
+        //   link: "https://www.linkedin.com/in/braydentw/",
+        //   icon: "/static/icons/linkedin-f.svg",
+        //   leavesWebsite: true,
+        // },
         {
           name: "Dribbble",
           link: "https://dribbble.com/braydentw",
@@ -98,7 +98,7 @@ export const footer: Footer = {
         },
         {
           name: "Email",
-          link: "mailto:contact@braydentw.io",
+          link: "mailto:fredmian3@gmail.com",
           icon: "/static/icons/mail-f.svg",
           leavesWebsite: true,
         },

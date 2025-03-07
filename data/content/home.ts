@@ -12,37 +12,33 @@ type Testimonial = {
 
 export const skills: Skill[] = [
   {
-    title: "HTML",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+    title: "Python",
+    icon: "https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python.svg",
   },
   {
-    title: "CSS",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+    title: "C++",
+    icon: "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg",
   },
   {
-    title: "Javascript",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+    title: "Java",
+    icon: "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java.svg",
   },
   {
-    title: "Sass",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg",
+    title: "JavaScript",
+    icon: "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.svg",
   },
   {
-    title: "TailwindCSS",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+    title: "PyTorch",
+    icon: "/static/doodles/py-torch.svg",
+  },
+  {
+    title: "TensorFlow",
+    icon: "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tensorflow.svg",
+    style: { filter: "invert(1)" },
   },
   {
     title: "React",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
-  },
-  {
-    title: "NextJS",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg",
-    style: { filter: "invert(1)" },
-  },
-  {
-    title: "Typescript",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
   },
   {
     title: "NodeJS",
@@ -67,18 +63,18 @@ export const testimonials: Testimonial[] = [
     quote:
       "The communication throughout the project was spot on and the genre of design was carried out well.",
     name: "Wilson Bright",
-    job: "Co-Founder of BlockSurvey",
+    job: "Co-Founder of Embraer",
   },
   {
     quote:
       "The code was clean, easy to understand, and exactly what I was looking for.",
     name: "Philip Imperato",
-    job: "CEO of VisualBonus",
+    job: "CEO of CrowdClip",
   },
   {
     quote:
       "My vision was executed perfectly. The quality and speed of the work was excellent.",
     name: "Zach Green",
-    job: "Founder of Hangxiety Shrink",
+    job: "Founder of Ethical compliance system",
   },
 ];
