@@ -23,9 +23,9 @@ function Hero() {
             src="/static/doodles/hero/nextjs.svg"
           />
           <img
-            className="sqD bottom-[-300px] -right-1/4 sm:right-[-20%] lg:bottom-[-310px] lg:right-[-120px] w-[400px]"
+            className="sqD bottom-[-300px] -right-1/4 -z-10 sm:right-[-20%] lg:bottom-[-350px] lg:right-[-120px] w-[400px]"
             style={{ animationDelay: "0.3s" }}
-            src="/static/doodles/hero/brayden.svg"
+            src="/static/doodles/hero/fred.svg"
           />
           <img
             className="sqD hidden sm:block bottom-[-340px] left-[-180px]"

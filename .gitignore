@@ -24,3 +24,6 @@ yarn-error.log*
 
 # Optional: If using a package-lock.json file, you might want to ignore it in favor of yarn.lock or pnpm-lock.yaml, or vice versa
 # package-lock.json
+
+# Contentlayer
+.contentlayer
